@@ -1,0 +1,22 @@
+{
+  "note": "Fictional listings for offline demos and tests; not real products or brands.",
+  "category": "insulated water bottles",
+  "goals": [
+    "I need a bottle that keeps drinks cold during long hikes.",
+    "Looking for a leak-proof bottle for my daily commute under $30.",
+    "I want a durable bottle for the gym that is easy to clean.",
+    "A gift for a friend who drinks a lot of coffee on the go."
+  ],
+  "items": [
+    {"id": "b1", "title": "Brand A 750 ml Steel Bottle", "facts": {"price": 24.99, "rating": 4.5, "reviews": 812, "capacity": "750 ml", "material": "stainless steel"}, "text": "Double-wall vacuum insulation keeps drinks cold for 24 hours. Leak-proof lid. Fits most cup holders."},
+    {"id": "b2", "title": "Brand B 1 L Sport Bottle", "facts": {"price": 29.99, "rating": 4.3, "reviews": 455, "capacity": "1 L", "material": "stainless steel"}, "text": "Large 1 L capacity with a carry loop. Keeps water cold for 24 hours and hot for 12 hours."},
+    {"id": "b3", "title": "Brand C 500 ml Travel Mug", "facts": {"price": 19.99, "rating": 4.6, "reviews": 1290, "capacity": "500 ml", "material": "stainless steel"}, "text": "Compact travel mug with a one-hand flip lid. Keeps coffee hot for 8 hours."},
+    {"id": "b4", "title": "Brand D 650 ml Tritan Bottle", "facts": {"price": 14.99, "rating": 4.1, "reviews": 230, "capacity": "650 ml", "material": "Tritan plastic"}, "text": "Lightweight BPA-free bottle with a wide mouth for ice. Dishwasher safe."},
+    {"id": "b5", "title": "Brand E 900 ml Steel Bottle", "facts": {"price": 27.5, "rating": 4.4, "reviews": 640, "capacity": "900 ml", "material": "stainless steel"}, "text": "Powder-coated finish for grip. Straw lid and spout lid included."},
+    {"id": "b6", "title": "Brand F 750 ml Glass Bottle", "facts": {"price": 21.0, "rating": 4.2, "reviews": 180, "capacity": "750 ml", "material": "borosilicate glass"}, "text": "Glass bottle with a silicone sleeve. No metallic taste. Hand wash recommended."},
+    {"id": "b7", "title": "Brand G 600 ml Kids Bottle", "facts": {"price": 12.99, "rating": 4.0, "reviews": 95, "capacity": "600 ml", "material": "stainless steel"}, "text": "Kid-friendly bottle with a soft spout. Keeps drinks cold for 12 hours."},
+    {"id": "b8", "title": "Brand H 1.2 L Jug", "facts": {"price": 34.99, "rating": 4.5, "reviews": 510, "capacity": "1.2 L", "material": "stainless steel"}, "text": "Big jug for long days outdoors. Keeps drinks cold for 36 hours."},
+    {"id": "b9", "title": "Brand I 700 ml Bottle", "facts": {"price": 17.49, "rating": 3.9, "reviews": 140, "capacity": "700 ml", "material": "stainless steel"}, "text": "Simple steel bottle. Screw cap. Keeps drinks cold for 18 hours."},
+    {"id": "b10", "title": "Brand J 800 ml Bottle", "facts": {"price": 22.99, "rating": 4.3, "reviews": 377, "capacity": "800 ml", "material": "stainless steel"}, "text": "Chug lid with a handle. Sweat-free exterior. Keeps drinks cold for 24 hours."}
+  ]
+}

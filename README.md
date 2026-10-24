@@ -3,11 +3,15 @@
 Code for the paper *When Genuine Purchases Become Poison: Proxy Attacks on Recommender Systems via
 Shopping Agents*.
 
+![Teaser figure](assets/teaser-figure.png)
+
 Shopping agents buy on behalf of real users, so their purchases are genuine and pass every
 fake-account filter. A seller can still rewrite a listing so that it appeals to **agents** much more
 than to **humans**. When the platform retrains on pooled purchases, that agent–human gap leaks into
 the item scores that humans see. **GPA** is the seller-side attack that finds such rewrites, and
 **LMR** is the platform-side defense that measures each revision's gap and reweights agent purchases.
+
+![Framework figure](assets/framework_figure.png)
 
 ---
 

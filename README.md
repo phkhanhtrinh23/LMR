@@ -1,7 +1,7 @@
 # When Genuine Purchases Become Poison: Proxy Attacks on Recommender Systems via Shopping Agents
 
 Code for the paper *When Genuine Purchases Become Poison: Proxy Attacks on Recommender Systems via
-Shopping Agents* (`Proxy_Attacks_on_Recommender_Systems_via_Shopping_Agents.pdf`).
+Shopping Agents*.
 
 Shopping agents buy on behalf of real users, so their purchases are genuine and pass every
 fake-account filter. A seller can still rewrite a listing so that it appeals to **agents** much more
